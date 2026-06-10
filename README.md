@@ -1,4 +1,4 @@
-## Hi there 👋
+## A Dumbass Programmer who Happens to publish their code on this github and Runs ThatAussieProgrammer
 
 <!--
 **AkaneDev/AkaneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
