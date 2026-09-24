@@ -1,5 +1,7 @@
 ## A Dumbass Programmer who Happens to publish their code on this github and Runs ThatAussieProgrammer
 
+I Now consider myself a Mod Developer I've created both SimpleMimics and CursedChaos
+
 <!--
 **AkaneDev/AkaneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
